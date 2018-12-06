@@ -217,13 +217,19 @@ input[type=submit] {
 }
 
 @media only screen and (max-width:980px;){
-
+  /* WIP */
 }
 
 @media only screen and (max-width:768px;){
-
+   /* WIP */
 }
 
 @media only screen and (max-width:640px;){
+  #masthead {
+    position: fixed;
+  }
+
+  /*Navbar under Brand */
+  /*Image over content text */
   
 }
